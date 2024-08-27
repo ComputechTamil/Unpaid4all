@@ -1,3 +1,4 @@
+
 for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
 cscript ospp.vbs /setprt:1688
 
