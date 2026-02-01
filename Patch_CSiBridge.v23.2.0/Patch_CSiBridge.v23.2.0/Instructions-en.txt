@@ -1,0 +1,36 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+INSTRUCTIONS:
+
+  1. Disable your antivirus.
+  
+  2. Unrar and install the application.
+ 
+  3. Delete created by default .net native image.
+     - Run as admin command prompt (cmd.exe) and
+     - Browse to the folder: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\
+       and execute command: ngen uninstall csibridge
+
+  4. Run "CSiBridge.v23_kg" (...\Patch_CSiBridge.v23.2.0\Patch)
+     Name: lavteam.org 
+     Password: 9A4232D4-86CD30BE-953527E5-3B1CB1A6
+     - A license file (lservrc) will be generated.
+
+  5. Copy both generated above license and applied emulator (SentinelRMSCore.dll) to the folders: 
+     - <installdir>
+     - <installdir>\CSiLicensing\
+
+  ============= Enjoy ==============
+
+
+Notes.
+ 1. Allow program's access to the internet otherwise program will not even start.
+
+ 2. You can try to replace SentinelRMSCore.ni.dll besides deleting native image - program will start
+    much faster. But the good result is not guaranteed. The program may not even start. On what does the
+    success depend on is a big question at the moment.
+    So replace: 
+      C:\Windows\assembly\NativeImages_v4.0.30319_64\SentinelRMSCore\bla-bla-bla(depends on product)\SentinelRMSCore.ni.dll
+       with ...\Patch_CSiBridge.v23.2.0\Native images\SentinelRMSCore.ni.dll
+ 3. Do not use Windows Explorer for replacing SentinelRMSCore.ni.dll. No chance to do this with it. Use Total Commander
+    (for example) with turning on option for showing hidden files.

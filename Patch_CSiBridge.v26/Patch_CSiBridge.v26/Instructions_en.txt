@@ -1,0 +1,19 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+  1. Disable your antivirus.
+  
+  2. Unrar and install the application.
+     Choose: On-prem Standalone
+ 
+  3. Run keygen: bridge_v26_kg_lavteam.exe
+      Password: lavteam.org
+
+
+     A license file (lservrc) will be generated.
+
+  4. Copy both generated above license and applied emulator (SentinelRMSCore.dll) to the folders: 
+     - C:\Program Files\Computers and Structures\CSiBridge 26
+     - C:\Program Files\Computers and Structures\CSiBridge 26\CSiLicensing
+
+  ============= Enjoy ==============
+

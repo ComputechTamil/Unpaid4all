@@ -1,0 +1,25 @@
+======================================
+     www.aportesingecivil.com
+======================================
+
+1. INSTALACIÓN DE CSIBRIDGE 2017 V19
+
+  - Ejecutar el setup - Aceptar terminos de licencia - Clic en siguiente a todo hasta que termine de instalar.
+   
+   Nota: Durante la instalación pedirá activar la licencia, dar clic en "No".
+
+2. ACTIVACIÓN DE CSIBRIDGE 2017 V19
+
+   - Importante: Desactivar el antivirus
+
+   - Ejecutar el keygen "csi_bridge2017_kg_2018.exe".
+
+   - El archivo "Iservrc", es generado automáticamente.
+
+  - Pegar el archivo "Iservrc" en la carpeta de instalación
+
+     x86: C:\Program Files (x86)\computers and structures\CSiBridge 2017
+
+     x64: C:\Program Files\Computers and Structures\CSiBridge 2017
+
+=============== Listo, ya tenemos activado CSiBridge 2017 v19 ======================

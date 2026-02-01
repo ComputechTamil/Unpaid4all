@@ -1,0 +1,22 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+IMPORTANTE:
+ **|  Durante la instalación desactivar la opción: "Perform native image generation during installation to optimize 
+      startup time and improve the graphical interface responsiveness"
+
+ACTIVAR ETABS CSIBRIDGE V21:
+
+  1. Desactivar la proteccion del antivirus.
+
+  2. Ejecutar el keygen (Click en "CSiBridge.v21_kg")
+     - El archivo de la licencia se generará automáticamente, nombre del archivo "lservrc"
+     - Cerrar la aplicación.
+
+  4. Copiar la licencia generada "lservrc" y el archivo dll "SentinelRMSCore.dll", en las siguientes carpetas:
+     - Carpeta de instalación: C:\Program Files\Computers and Structures\CSiBridge 21
+     - Carpeta CSiLicencing: C:\Program Files\Computers and Structures\CSiBridge 21\CSiLicensing
+
+  ============= Listo, programa activado ==============
+
+
+Pdt: Si el programa no se abre, desconectar la conexión a internet e intetar nuevamente.

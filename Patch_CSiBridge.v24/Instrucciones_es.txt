@@ -1,0 +1,37 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+INSTRUCCIONES:
+   
+  1. Desactive su antivirus
+
+  2. Instale el programa
+     - Ejecute el setup y siga las indicaciones que se muestran en pantalla hasta finalizar la instalación. 
+       Elija "Use Standalone Licence"
+       
+     - Al momento que le solicite la licencia, de clic en "Close".
+  
+  3. Elimine .net Native image
+     **| Opción 1: 
+         Ejecute como administrador "CSiNativeImageGen.exe" [C:\Program Files\Computers and Structures\CSiBridge 24] >> F4 >> F4 >> Close
+
+     **| Opción 2: 
+         Ejecute como administrador "cmd.exe" >> Digite: cd C:\Windows\Microsoft.NET\Framework64\v4.0.30319 >> Presione Enter >>
+         <<>> Digite: ngen uninstall csibridge >> Presione Enter >> Espere a que se elimine y cierre.
+
+  4. Ejecute el keygen "CSiBridge.v24_kg.exe"
+       Name    : lavteam.org
+       Password: E81F3A08-521DEEDC-B51DB3C7-383200E0
+
+     El archivo de la licencia se generará automáticamente, nombre del archivo "lservrc"
+
+  5. Copie la licencia generada "lservrc" y "SentinelRMSCore.dll", en las siguientes carpetas:
+     - Carpeta de instalación: C:\Program Files\Computers and Structures\CSiBridge 24
+     - Carpeta CSiLicencing  : C:\Program Files\Computers and Structures\CSiBridge 24\CSiLicensing
+     
+     Pdt: Debe copiar ambos archivos en las dos carpetas mencionadas.
+
+
+  ============= Listo, programa activado ==============
+
+
+   

@@ -1,0 +1,24 @@
+﻿ ::::::::::: www.aportesingecivil.com ::::::::::::
+   
+  1. Desactive su antivirus
+
+  2. Instale el programa
+     - Ejecute el setup y siga las indicaciones que se muestran en pantalla hasta finalizar la instalación. 
+       Elija: On-prem Standalone
+       
+     - Al momento que le solicite la licencia, de clic en "Close".
+  
+
+  3. Ejecute el keygen: bridge_v26_kg_lavteam.exe
+     Password: lavteam.org
+
+     El archivo de la licencia se generará automáticamente con el nombre "lservrc"
+
+  4. Copie los archivos "lservrc" y "SentinelRMSCore.dll", en:
+     - C:\Program Files\Computers and Structures\CSiBridge 26
+     - C:\Program Files\Computers and Structures\CSiBridge 26\CSiLicensing
+     
+     Pdt: Debe copiar ambos archivos en las dos carpetas mencionadas.
+
+
+  ============= Listo, programa activado ==============

@@ -1,0 +1,39 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+INSTRUCCIONES:
+   
+  1. Desacivar el antivirus
+
+  2. Instalar el programa
+     - Ejecutar el "Setup" y seguir las indicaciones hasta finalizar la instalación. Al momento que se le solicita la licencia, de clic en "Cerrar".
+  
+  3. Eliminar .net Native image
+     - Ejecutar como administrador "cmd.exe".
+     - Digitar:  cd C:\Windows\Microsoft.NET\Framework64\v4.0.30319 >> Presionar Enter >> Digitar: ngen uninstall csibridge >> Presionar Enter >> Esperar a que se elimine y cerrar.
+
+  4. Ejecutar el keygen "CSiBridge.v23_kg" (...\Patch_CSiBridge.v23.2.0\Patch)
+     - Se le solicitará un nombre y contraseña, ingrese lo siguiente:
+       Name: lavteam.org
+       Password: 9A4232D4-86CD30BE-953527E5-3B1CB1A6
+     - El archivo de la licencia se generará automáticamente, nombre del archivo "lservrc"
+     - Cerrar la aplicación.
+
+  5. Copiar los archivos "lservrc" y "SentinelRMSCore.dll", en las siguientes carpetas:
+     - Carpeta de instalación: C:\Program Files\Computers and Structures\CSiBridge 23
+     - Carpeta CSiLicencing: C:\Program Files\Computers and Structures\CSiBridge 23\CSiLicensing
+
+  ============= Listo, programa activado ==============
+
+
+Notas.
+  1. El programa puede que necesite conexión a internet para que se pueda abrir.
+
+  2. Si desea acelerar el inicio del programa puede hacer lo siguiente:   
+
+     IMPORTANTE: El resultado no está garantizado, puede que el programa no se abra. 
+
+     - Reemplazar "SentinelRMSCore.ni.dll" (C:\Windows\assembly\NativeImages_v4.0.30319_64\SentinelRMSCore\bla-bla-bla(depende del producto))
+      por el del kg (...\Patch_CSiBridge.v23.2.0\Native images)      
+
+     - No es posible reemplzar el archivo "SentinelRMSCore.ni.dll" con el explorador de Windows, tiene que hacerlo con el Total Commander,
+      además tiene que activar la opción de "Mostrar archivos ocultos" en total commander.   

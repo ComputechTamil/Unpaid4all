@@ -1,0 +1,22 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+INSTRUCTIONS:
+
+  1. Disable your antivirus.
+  
+  2. Unrar and install the application.
+     Choose: On-prem Standalone
+ 
+  3. Delete created by default .net native image.
+     Run as admin "CSiNativeImageGen.exe" [C:\Program Files\Computers and Structures\CSiBridge 25] >> F4 >> F4 >> Close    
+      
+  4. Run patch "csi_bridge_v25_2_kg.exe"
+     Password: lavteam.org
+
+     A license file (lservrc) will be generated.
+
+  5. Copy both generated above license and applied emulator (SentinelRMSCore.dll) to the folders: 
+     - <installdir>
+     - <installdir>\CSiLicensing\
+
+  ============= Enjoy ==============

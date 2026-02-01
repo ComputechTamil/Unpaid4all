@@ -1,0 +1,30 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+RECOMENDACIÓN IMPORTANTE:
+ **|  Durante la instalación desactivar la opción: "Perform native image generation during installation to optimize 
+      startup time and improve the graphical interface responsiveness", si deja activada esta opción revise las notas más abajo.
+
+ACTIVAR CSiBridge 2020 V22:
+
+  1. Desactivar la proteccion del antivirus.
+
+  2. Ejecutar el keygen "CSiBridge.v22_kg.exe" (...\kg_CSiBridge.v22\Patch)
+     - El archivo de la licencia se generará automáticamente, nombre del archivo "lservrc"
+     - Cerrar la aplicación.
+
+  4. Copiar la licencia generada "lservrc" y el archivo dll "SentinelRMSCore.dll", en las siguientes carpetas:
+     - Carpeta de instalación: C:\Program Files\Computers and Structures\CSiBridge 22
+     - Carpeta CSiLicencing: C:\Program Files\Computers and Structures\CSiBridge 22\CSiLicensing
+
+  ============= Listo, programa activado ==============
+
+
+Notas.
+ 1. El programa necesita conexión a internet, caso contrario no se abrirá.
+
+ 2. Si ha dejado activado "Perform native image generation during installation to optimize startup time and 
+    improve the graphical interface responsiveness" durante la instalación, también debe hacer lo siguiente:
+    - Reemplazar "SentinelRMSCore.ni.dll" (C:\Windows\assembly\NativeImages_v4.0.30319_64\SentinelRMSCore\bla-bla-bla(depende del producto))
+      por el del kg (...\kg_CSiBridge.v22\Native Images)
+    - No es posible reemplzar el archivo "SentinelRMSCore.ni.dll" con el explorador de Windows, tiene que hacerlo con el Total Commander,
+      además tiene que activar la opción de "Mostrar archivos ocultos" en total commander.

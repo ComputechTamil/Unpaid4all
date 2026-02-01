@@ -1,0 +1,27 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+HIGHLY RECOMMENDED:
+ **|  Not to create 'native image' while installing!!! Read Notes below.
+
+CSiBridge 2020 V22 ACTIVATE:
+
+  1. Disable your antivirus.
+
+  2. Run "CSiBridge.v22_kg.exe" (...\kg_CSiBridge.v22\Patch)
+     - A license file (lservrc) will be generated.
+
+  4. Copy both generated above license and applied emulator (SentinelRMSCore.dll) to the folders: 
+     - <installdir>
+     - <installdir>\CSiLicensing\
+
+  ============= Enjoy ==============
+
+
+Notes.
+ 1. Allow program's access to the internet otherwise program will not even start.
+ 2. All, who used "Perform native image	generation ..." while installing, has also to replace:
+    C:\Windows\assembly\NativeImages_v4.0.30319_64\SentinelRMSCore\bla-bla-bla(depend on product)\SentinelRMSCore.ni.dll
+    with the one from kg ...\kg_CSiBridge.v22\Native Images\SentinelRMSCore.ni.dll
+ 3. Do not use Windows Explorer for replacing SentinelRMSCore.ni.dll. No chance to do this with it. Use Total Commander
+    (for example) with turning on option for showing hidden files.
+

@@ -1,0 +1,26 @@
+ ::::::::::: www.aportesingecivil.com ::::::::::::
+
+INSTRUCTIONS:
+
+  1. Disable your antivirus.
+  
+  2. Unrar and install the application.
+ 
+  3. Delete created by default .net native image.
+     **| Option 1:
+         Run as admin "CSiNativeImageGen.exe" [C:\Program Files\Computers and Structures\CSiBridge 24] >> F4 >> F4 >> Close
+
+     **| Option 2:
+         Run as admin command prompt (cmd.exe) >> Execute command: C:\Windows\Microsoft.NET\Framework64\v4.0.30319 >>Execute command:  ngen uninstall csibridge
+       
+  4. Run keygen "CSiBridge.v24_kg.exe"
+      Name    : lavteam.org
+      Password: E81F3A08-521DEEDC-B51DB3C7-383200E0
+
+     A license file (lservrc) will be generated.
+
+  5. Copy both generated above license and applied emulator (SentinelRMSCore.dll) to the folders: 
+     - <installdir>
+     - <installdir>\CSiLicensing\
+
+  ============= Enjoy ==============

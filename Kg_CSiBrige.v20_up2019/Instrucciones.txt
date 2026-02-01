@@ -1,0 +1,25 @@
+======================================
+     www.aportesingecivil.com
+======================================
+
+1. INSTALACIÓN DE CSIBRIDGE v20
+
+  - Ejecutar el setup - Aceptar terminos de licencia - Clic en siguiente a todo hasta que termine de instalar.
+   
+   Nota: Durante la instalación pedirá que activemos la licencia, dar clic en "No".
+
+2. ACTIVACIÓN DE CSIBRIDGE v20
+
+   - Importante: Desactivar el antivirus
+
+   - Ejecutar el keygen "CSiBridge.v20_kg.exe".
+
+   - El archivo "Iservrc", es generado automáticamente.
+
+  - Pegar el archivo "Iservrc" en la carpeta de instalación
+
+     x86: C:\Program Files (x86)\computers and structures\CSiBridge v20
+
+     x64: C:\Program Files\Computers and Structures\CSiBridge v20
+
+=============== Listo, ya tenemos activado CSiBridge v20 ======================
