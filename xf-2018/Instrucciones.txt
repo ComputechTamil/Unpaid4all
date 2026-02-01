@@ -1,0 +1,199 @@
+---------------------------------------------
+ Mas programas en: www.aportesingecivil.com
+---------------------------------------------
+
+ INSTALACIÓN DE UN PROGRAMA DE AUTODESK 2018
+============================================
+  Los programas están comprimidos, asi que es necesario descomprir antes de empezar a instalar.
+
+   1. Ejecutar el setup del programa a instalar.
+
+   2. Dar clic en siguiente a todo y esperar a que termine la instalación.
+
+   3. Reiniciar el ordenador una vez terminada la instalación.
+
+
+ ACTIVACIÓN DE UN PROGRAMA DE AUTODESK 2018
+===========================================
+
+  Importante: Se recomienda desactivar la conexión a internet durante la activación.
+
+  1. Abrir el programa  autodesk ( autocad, civil 3d, etc) y dar clic en "Enter a serial Number" - Activate
+
+     
+    - Usar como "Serial number" alguno de los siguientes codigos:
+
+      666-69696969
+      667-98989898
+      400-45454545 
+
+    - Usar el "Product key" de acuerdo al programa que se está instalando: Ver los product key al final.
+
+
+    Nota 1: Si al dar clic en "Activate" aparece que el serial number es incorrecto,
+            solo debemos cerrar la ventana y dar clic nuevamente en "Activate".
+
+    Nota 2: Antes de dar clic en "Activate" podemos desconectar la conección del internet
+            y así evitar que salga serial number incorrecto.
+
+
+  2. Una vez reconocido el serial number, seleccionar "I have an activation code from Autodesk" y copiar el código de "Request code".
+
+  3. Ejecutar como administrador "xf_adsk2018" ya sea el de 32 bit o el de 64 bit (dependiendo del ordenador).
+
+     Nota 3: Para ejecutar como administrador se hace lo siguiente: clic derecho sobre el keygen y clic en "Ejecutar como administrador".
+
+  4. En la ventana del keygen dar click en "Mem Patch" (Si se ha realizado con éxito aparecerá "Successfully patched").
+
+  5. En la ventana del keygen pegar el "Request code" en "Request", dar clic en "generate" y copiar el código generado.
+
+  6. Ir a la ventana de activación y pegar el código generado, luego dar clic en siguiente.
+
+  7. Si todo se ha salido bien, nos mostrará que el programa ha sido activado correctamente.
+
+======================================================================================================================================
+ PRODUCT KEY AUTODESK 2018
+
+001J1	Autodesk AutoCAD 2018
+185J1	Autodesk AutoCAD Architecture 2018
+237J1	Autodesk AutoCAD Civil 3D 2018
+768J1	Autodesk AutoCAD Design Suite Premium 2018
+767J1	Autodesk AutoCAD Design Suite Standard 2018
+769J1	Autodesk AutoCAD Design Suite Ultimate 2018
+225J1	Autodesk AutoCAD Electrical 2018
+777J1	Autodesk AutoCAD for Mac 2018
+596J1	Autodesk AutoCAD Inventor LT Suite 2018
+057J1	Autodesk AutoCAD LT 2018
+545J1	Autodesk AutoCAD LT Civil Suite 2018
+827J1	Autodesk AutoCAD LT for Mac 2018
+129J1	Autodesk AutoCAD Map 3D 2018
+206J1	Autodesk AutoCAD Mechanical 2018
+235J1	Autodesk AutoCAD MEP 2018
+140J1	Autodesk AutoCAD OEM 2018
+448J1	Autodesk AutoCAD P&ID 2018
+426J1	Autodesk AutoCAD Plant 3D 2018
+340J1	Autodesk AutoCAD Raster Design 2018
+834J1	Autodesk AutoCAD Revit LT Suite 2018
+587J1	Autodesk AutoCAD Structural Detailing 2018
+213J1	Autodesk AutoCAD Utility Design 2018
+974J1	Autodesk Bridge Module 2018
+765J1	Autodesk Building Design Suite Premium 2018
+784J1	Autodesk Building Design Suite Standard 2018
+766J1	Autodesk Building Design Suite Ultimate 2018
+889J1	Autodesk Display Cluster Module for Autodesk VRED Design 2018
+651J1	Autodesk Education Master Suite 2018
+535J1	Autodesk Enterprise Token Flex
+656J1	Autodesk Entertainment Creation Suite For Education 2018
+793J1	Autodesk Entertainment Creation Suite Ultimate 2018
+839J1	Autodesk Fabrication CADmep 2018
+842J1	Autodesk Fabrication CAMduct 2018
+844J1	Autodesk Fabrication CAMduct Components 2018
+841J1	Autodesk Fabrication ESTmep 2018
+845J1	Autodesk Fabrication RemoteEntry 2018
+843J1	Autodesk Fabrication Tracker 2018
+757J1	Autodesk Factory Design Suite Premium 2018
+789J1	Autodesk Factory Design Suite Standard 2018
+760J1	Autodesk Factory Design Suite Ultimate 2018
+973J1	Autodesk Geotechnical Module 2018
+872J1	Autodesk HSMWorks Premium 2018
+873J1	Autodesk HSMWorks Professional 2018
+786J1	Autodesk Infrastructure Design Suite Premium 2018
+787J1	Autodesk Infrastructure Design Suite Standard 2018
+785J1	Autodesk Infrastructure Design Suite Ultimate 2018
+796J1	Autodesk Infrastructure Map Server 2018 
+877J1	Autodesk Infrastructure Map Server 5 Activations 2018
+808J1	Autodesk InfraWorks 2018
+976J1	Autodesk InfraWorks 360 - companion 2018
+927J1	Autodesk InfraWorks 360 2018
+208J1	Autodesk Inventor 2018
+805J1	Autodesk Inventor Engineer-to-Order Series 2018
+752J1	Autodesk Inventor Engineer-to-Order Server 2018
+969J1	Autodesk Inventor HSM 2018
+529J1	Autodesk Inventor LT 2018
+798J1	Autodesk Inventor OEM 2018
+797J1	Autodesk Inventor Professional 2018
+666J1	Autodesk Inventor Publisher 2018
+657J1	Autodesk Maya 2018
+660J1	Autodesk Maya Entertainment Creation Suite Standard 2018
+923J1	Autodesk Maya LT 2018
+977J1	Autodesk Maya with SoftImage 2018
+727J1	Autodesk MotionBuilder 2018
+498J1	Autodesk Mudbox 2018
+507J1	Autodesk Navisworks Manage 2018
+506J1	Autodesk Navisworks Simulate 2018
+763J1	Autodesk Plant Design Suite Premium 2018
+788J1	Autodesk Plant Design Suite Standard 2018
+764J1	Autodesk Plant Design Suite Ultimate 2018
+925J1	Autodesk Point Layout 2018
+654J1	Autodesk Product Design Suite for Education 2018
+782J1	Autodesk Product Design Suite Premium 2018
+783J1	Autodesk Product Design Suite Standard 2018
+781J1	Autodesk Product Design Suite Ultimate 2018
+919J1	Autodesk ReCap 2018
+829J1	Autodesk Revit 2018
+240J1	Autodesk Revit Architecture 2018
+828J1	Autodesk Revit LT 2018
+589J1	Autodesk Revit MEP 2018
+255J1	Autodesk Revit Structure 2018
+972J1	Autodesk River and Flood Analysis Module 2018
+547J1	Autodesk Robot Structural Analysis Professional 2018
+262J1	Autodesk Showcase 2018
+809J1	Autodesk Simulation CFD 2018
+810J1	Autodesk Simulation CFD 2018 Advanced
+815J1	Autodesk Simulation CFD 2018 Connection for NX
+824J1	Autodesk Simulation CFD 2018 Connection for Parasolid
+822J1	Autodesk Simulation CFD 2018 Connection for Pro/E
+812J1	Autodesk Simulation CFD 2018 Design Study Environment
+811J1	Autodesk Simulation CFD 2018 Motion
+899J1	Autodesk Simulation Composite Analysis 2018
+918J1	Autodesk Simulation Composite Design 2018
+837J1	Autodesk Simulation DFM 2018
+669J1	Autodesk Simulation Mechanical 2018
+571J1	Autodesk Simulation Moldflow Adviser Premium 2018
+570J1	Autodesk Simulation Moldflow Adviser Standard 2018
+572J1	Autodesk Simulation Moldflow Adviser Ultimate 2018
+574J1	Autodesk Simulation Moldflow Insight Premium 2018
+574J1	Autodesk Simulation Moldflow Insight Premium 2018
+573J1	Autodesk Simulation Moldflow Insight Standard 2018
+575J1	Autodesk Simulation Moldflow Insight Ultimate 2018
+579J1	Autodesk Simulation Moldflow Synergy 2018
+741J1	Autodesk SketchBook Designer 2018
+871J1	Autodesk SketchBook Pro 2018
+776J1	Autodesk Smoke 2018 for Mac OS X
+590J1	Autodesk Softimage 2018
+662J1	Autodesk Softimage Entertainment Creation Suite Standard 2018
+549J1	Autodesk Vault Collaboration 2018
+801J1	Autodesk Vault Collaboration AEC 2018
+555J1	Autodesk Vault Office 2018
+569J1	Autodesk Vault Professional 2018
+559J1	Autodesk Vault Workgroup 2018
+955J1	Autodesk Vehicle Tracking 2018
+884J1	Autodesk VRED 2018
+885J1	Autodesk VRED Design 2018
+888J1	Autodesk VRED Presenter 2018
+886J1	Autodesk VRED Professional 2018
+887J1	Autodesk VRED Server 2018
+128J1	Autodesk 3ds Max 2018
+495J1	Autodesk 3ds Max Design 2018
+774J1	Autodesk 3ds Max Entertainment Creation Suite Premium 2018
+661J1	Autodesk 3ds Max Entertainment Creation Suite Standard 2018
+978J1	Autodesk 3ds Max with SoftImage 2018
+960J1	Autodesk Advance Concrete 2018
+959J1	Autodesk Advance Steel 2018
+959H2	Autodesk Advance Steel 2018.1
+958J1	Autodesk Advance Steel 2018 with AutoCAD
+710J1	Autodesk Alias Automotive 2018
+966J1	Autodesk Alias AutoStudio 2018
+712J1	Autodesk Alias Design 2018
+736J1	Autodesk Alias Surface 2018
+577J1	CADdoctor for Autodesk Simulation 2018
+535J1	Enterprise Multi-Flex Enhanced Bundle 2018
+718J1	mental ray Standalone 2018
+535J1	T1 Enterprise Multi-flex 2018
+535J1	T1 Enterprise Multi-flex Prior Version 2018
+535J1	T1 Enterprise Multi-flex Standard Bundle 2018
+535J1	T1 Enterprise Multi-Flex Standard Prior Version Bundle 2018
+
+
+
+ 

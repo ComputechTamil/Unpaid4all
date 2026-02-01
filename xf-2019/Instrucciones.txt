@@ -1,0 +1,200 @@
+======================================================
+               www.aportesingecivil.com
+======================================================
+
+
+ INSTALACIÓN DE UN PROGRAMA DE AUTODESK 2019
+============================================
+  Los programas están comprimidos, asi que es necesario descomprir antes de empezar a instalar.
+
+   1. Ejecutar el setup del programa a instalar.
+
+   2. Dar clic en siguiente a todo y esperar a que termine la instalación.
+
+   3. Reiniciar el ordenador una vez terminada la instalación.
+
+
+ ACTIVACIÓN DE UN PROGRAMA DE AUTODESK 2019
+===========================================
+
+  Importante: Se recomienda desactivar el antivirus y la conexión a internet durante la activación.
+
+  1. Abrir el programa  autodesk ( autocad, civil 3d, etc) y dar clic en "Enter a serial Number" - Activate
+
+     
+    - Usar como "Serial number" alguno de los siguientes codigos:
+
+      666-69696969
+      667-98989898
+      400-45454545 
+
+    - Usar el "Product key" de acuerdo al programa que se está instalando: Ver los product key al final.
+
+
+    Nota 1: Si al dar clic en "Activate" aparece que el serial number es incorrecto,
+            solo debemos cerrar la ventana y dar clic nuevamente en "Activate".
+
+    Nota 2: Antes de dar clic en "Activate" podemos desconectar la conección del internet
+            y así evitar que salga serial number incorrecto.
+
+
+  2. Una vez reconocido el serial number, seleccionar "I have an activation code from Autodesk" y copiar el código de "Request code".
+
+  3. Ejecutar como administrador "xf-adsk2019" ya sea el de 32 bit o el de 64 bit (dependiendo del ordenador).
+
+     Nota 3: Para ejecutar como administrador se hace lo siguiente: clic derecho sobre el keygen y clic en "Ejecutar como administrador".
+
+  4. En la ventana del keygen dar click en "Mem Patch" (Si se ha realizado con éxito aparecerá "Successfully patched").
+
+  5. En la ventana del keygen pegar el "Request code" en "Request", dar clic en "generate" y copiar el código generado.
+
+  6. Ir a la ventana de activación y pegar el código generado, luego dar clic en siguiente.
+
+  7. Si todo ha salido bien, nos mostrará que el programa ha sido activado correctamente.
+
+======================================================================================================================================
+ PRODUCT KEY AUTODESK 2019
+
+001K1	Autodesk AutoCAD 2019
+185K1	Autodesk AutoCAD Architecture 2019
+237K1	Autodesk AutoCAD Civil 3D 2019
+768K1	Autodesk AutoCAD Design Suite Premium 2019
+767K1	Autodesk AutoCAD Design Suite Standard 2019
+769K1	Autodesk AutoCAD Design Suite Ultimate 2019
+225K1	Autodesk AutoCAD Electrical 2019
+777K1	Autodesk AutoCAD for Mac 2019
+596K1	Autodesk AutoCAD Inventor LT Suite 2019
+057K1	Autodesk AutoCAD LT 2019
+545K1	Autodesk AutoCAD LT Civil Suite 2019
+827K1	Autodesk AutoCAD LT for Mac 2019
+129K1	Autodesk AutoCAD Map 3D 2019
+206K1	Autodesk AutoCAD Mechanical 2019
+235K1	Autodesk AutoCAD MEP 2019
+140K1	Autodesk AutoCAD OEM 2019
+448K1	Autodesk AutoCAD P&ID 2019
+426K1	Autodesk AutoCAD Plant 3D 2019
+340K1	Autodesk AutoCAD Raster Design 2019
+834K1	Autodesk AutoCAD Revit LT Suite 2019
+587K1	Autodesk AutoCAD Structural Detailing 2019
+213K1	Autodesk AutoCAD Utility Design 2019
+974K1	Autodesk Bridge Module 2019
+765K1	Autodesk Building Design Suite Premium 2019
+784K1	Autodesk Building Design Suite Standard 2019
+766K1	Autodesk Building Design Suite Ultimate 2019
+889K1	Autodesk Display Cluster Module for Autodesk VRED Design 2019
+651K1	Autodesk Education Master Suite 2019
+535K1	Autodesk Enterprise Token Flex
+656K1	Autodesk Entertainment Creation Suite For Education 2019
+793K1	Autodesk Entertainment Creation Suite Ultimate 2019
+839K1	Autodesk Fabrication CADmep 2019
+842K1	Autodesk Fabrication CAMduct 2019
+844K1	Autodesk Fabrication CAMduct Components 2019
+841K1	Autodesk Fabrication ESTmep 2019
+845K1	Autodesk Fabrication RemoteEntry 2019
+843K1	Autodesk Fabrication Tracker 2019
+757K1	Autodesk Factory Design Suite Premium 2019
+789K1	Autodesk Factory Design Suite Standard 2019
+760K1	Autodesk Factory Design Suite Ultimate 2019
+973K1	Autodesk Geotechnical Module 2019
+872K1	Autodesk HSMWorks Premium 2019
+873K1	Autodesk HSMWorks Professional 2019
+786K1	Autodesk Infrastructure Design Suite Premium 2019
+787K1	Autodesk Infrastructure Design Suite Standard 2019
+785K1	Autodesk Infrastructure Design Suite Ultimate 2019
+796K1	Autodesk Infrastructure Map Server 2019 
+877K1	Autodesk Infrastructure Map Server 5 Activations 2019
+808K1	Autodesk InfraWorks 2019
+976K1	Autodesk InfraWorks 360 - companion 2019
+927K1	Autodesk InfraWorks 360 2019
+208K1	Autodesk Inventor 2019
+805K1	Autodesk Inventor Engineer-to-Order Series 2019
+752K1	Autodesk Inventor Engineer-to-Order Server 2019
+969K1	Autodesk Inventor HSM 2019
+529K1	Autodesk Inventor LT 2019
+798K1	Autodesk Inventor OEM 2019
+797K1	Autodesk Inventor Professional 2019
+666K1	Autodesk Inventor Publisher 2019
+657K1	Autodesk Maya 2019
+660K1	Autodesk Maya Entertainment Creation Suite Standard 2019
+923K1	Autodesk Maya LT 2019
+977K1	Autodesk Maya with SoftImage 2019
+727K1	Autodesk MotionBuilder 2019
+498K1	Autodesk Mudbox 2019
+507K1	Autodesk Navisworks Manage 2019
+506K1	Autodesk Navisworks Simulate 2019
+763K1	Autodesk Plant Design Suite Premium 2019
+788K1	Autodesk Plant Design Suite Standard 2019
+764K1	Autodesk Plant Design Suite Ultimate 2019
+925K1	Autodesk Point Layout 2019
+654K1	Autodesk Product Design Suite for Education 2019
+782K1	Autodesk Product Design Suite Premium 2019
+783K1	Autodesk Product Design Suite Standard 2019
+781K1	Autodesk Product Design Suite Ultimate 2019
+919K1	Autodesk ReCap 2019
+829K1	Autodesk Revit 2019
+240K1	Autodesk Revit Architecture 2019
+828K1	Autodesk Revit LT 2019
+589K1	Autodesk Revit MEP 2019
+255K1	Autodesk Revit Structure 2019
+972K1	Autodesk River and Flood Analysis Module 2019
+547K1	Autodesk Robot Structural Analysis Professional 2019
+262K1	Autodesk Showcase 2019
+809K1	Autodesk Simulation CFD 2019
+810K1	Autodesk Simulation CFD 2019 Advanced
+815K1	Autodesk Simulation CFD 2019 Connection for NX
+824K1	Autodesk Simulation CFD 2019 Connection for Parasolid
+822K1	Autodesk Simulation CFD 2019 Connection for Pro/E
+812K1	Autodesk Simulation CFD 2019 Design Study Environment
+811K1	Autodesk Simulation CFD 2019 Motion
+899K1	Autodesk Simulation Composite Analysis 2019
+918K1	Autodesk Simulation Composite Design 2019
+837K1	Autodesk Simulation DFM 2019
+669K1	Autodesk Simulation Mechanical 2019
+571K1	Autodesk Simulation Moldflow Adviser Premium 2019
+570K1	Autodesk Simulation Moldflow Adviser Standard 2019
+572K1	Autodesk Simulation Moldflow Adviser Ultimate 2019
+574K1	Autodesk Simulation Moldflow Insight Premium 2019
+574K1	Autodesk Simulation Moldflow Insight Premium 2019
+573K1	Autodesk Simulation Moldflow Insight Standard 2019
+575K1	Autodesk Simulation Moldflow Insight Ultimate 2019
+579K1	Autodesk Simulation Moldflow Synergy 2019
+741K1	Autodesk SketchBook Designer 2019
+871K1	Autodesk SketchBook Pro 2019
+776K1	Autodesk Smoke 2019 for Mac OS X
+590K1	Autodesk Softimage 2019
+662K1	Autodesk Softimage Entertainment Creation Suite Standard 2019
+549K1	Autodesk Vault Collaboration 2019
+801K1	Autodesk Vault Collaboration AEC 2019
+555K1	Autodesk Vault Office 2019
+569K1	Autodesk Vault Professional 2019
+559K1	Autodesk Vault Workgroup 2019
+955K1	Autodesk Vehicle Tracking 2019
+884K1	Autodesk VRED 2019
+885K1	Autodesk VRED Design 2019
+888K1	Autodesk VRED Presenter 2019
+886K1	Autodesk VRED Professional 2019
+887K1	Autodesk VRED Server 2019
+128K1	Autodesk 3ds Max 2019
+495K1	Autodesk 3ds Max Design 2019
+774K1	Autodesk 3ds Max Entertainment Creation Suite Premium 2019
+661K1	Autodesk 3ds Max Entertainment Creation Suite Standard 2019
+978K1	Autodesk 3ds Max with SoftImage 2019
+960K1	Autodesk Advance Concrete 2019
+959K1	Autodesk Advance Steel 2019
+959H2	Autodesk Advance Steel 2019.1
+958K1	Autodesk Advance Steel 2019 with AutoCAD
+710K1	Autodesk Alias Automotive 2019
+966K1	Autodesk Alias AutoStudio 2019
+712K1	Autodesk Alias Design 2019
+736K1	Autodesk Alias Surface 2019
+577K1	CADdoctor for Autodesk Simulation 2019
+535K1	Enterprise Multi-Flex Enhanced Bundle 2019
+718K1	mental ray Standalone 2019
+535K1	T1 Enterprise Multi-flex 2019
+535K1	T1 Enterprise Multi-flex Prior Version 2019
+535K1	T1 Enterprise Multi-flex Standard Bundle 2019
+535K1	T1 Enterprise Multi-Flex Standard Prior Version Bundle 2019
+
+
+
+ 

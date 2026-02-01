@@ -1,0 +1,201 @@
+---------------------------------------------
+ Mas programas en: www.aportesingecivil.com
+---------------------------------------------
+
+
+ INSTALACIÓN DE UN PROGRAMA DE AUTODESK 2017
+============================================
+  Los programas están comprimidos, asi que es necesario descomprir antes de empezar a instalar.
+
+   1. Ejecutar el setup del programa a instalar.
+
+   2. Dar clic en siguiente a todo y esperar a que termine la instalación.
+
+   3. Reiniciar el ordenador una vez terminada la instalación.
+
+
+
+ ACTIVACIÓN DE UN PROGRAMA DE AUTODESK 2017
+===========================================
+
+  Importante: Se recomienda desactivar la conexión a internet durante la activación.
+
+  1. Abrir el programa  autodesk ( autocad, civil 3d, etc) y dar clic en "Enter a serial Number" - Activate
+
+     
+    - Usar como "Serial number" alguno de los siguientes codigos:
+
+      666-69696969
+      667-98989898
+      400-45454545 
+
+    - Usar el "Product key" de acuerdo al programa que se está instalando: Ver los product key al final.
+
+
+    Nota 1: Si al dar clic en "Activate" aparece que el serial number es incorrecto,
+            solo debemos cerrar la ventana y dar clic nuevamente en "Activate".
+
+    Nota 2: Antes de dar clic en "Activate" podemos desconectar la conección del internet
+            y así evitar que salga serial number incorrecto.
+
+
+  2. Una vez reconocido el serial number, seleccionar "I have an activation code from Autodesk" y copiar el código de "Request code".
+
+  3. Ejecutar como administrador "xf_adsk2017" ya sea el de 32 bit o el de 64 bit (dependiendo del ordenador).
+
+     Nota 3: Para ejecutar como administrador se hace lo siguiente: clic derecho sobre el keygen y clic en "Ejecutar como administrador".
+
+  4. En la ventana del keygen dar click en "Mem Patch" (Si se ha realizado con éxito aparecerá "Successfully patched").
+
+  5. En la ventana del keygen pegar el "Request code" en "Request", dar clic en "generate" y copiar el código generado.
+
+  6. Ir a la ventana de activación y pegar el código generado, luego dar clic en siguiente.
+
+  7. Si todo se ha salido bien, nos mostrará que el programa ha sido activado correctamente.
+
+======================================================================================================================================
+ PRODUCT KEY AUTODESK 2017
+
+001I1	Autodesk AutoCAD 2017
+185I1	Autodesk AutoCAD Architecture 2017
+237I1	Autodesk AutoCAD Civil 3D 2017
+768I1	Autodesk AutoCAD Design Suite Premium 2017
+767I1	Autodesk AutoCAD Design Suite Standard 2017
+769I1	Autodesk AutoCAD Design Suite Ultimate 2017
+225I1	Autodesk AutoCAD Electrical 2017
+777I1	Autodesk AutoCAD for Mac 2017
+596I1	Autodesk AutoCAD Inventor LT Suite 2017
+057I1	Autodesk AutoCAD LT 2017
+545I1	Autodesk AutoCAD LT Civil Suite 2017
+827I1	Autodesk AutoCAD LT for Mac 2017
+129I1	Autodesk AutoCAD Map 3D 2017
+206I1	Autodesk AutoCAD Mechanical 2017
+235I1	Autodesk AutoCAD MEP 2017
+140I1	Autodesk AutoCAD OEM 2017
+448I1	Autodesk AutoCAD P&ID 2017
+426I1	Autodesk AutoCAD Plant 3D 2017
+340I1	Autodesk AutoCAD Raster Design 2017
+834I1	Autodesk AutoCAD Revit LT Suite 2017
+587I1	Autodesk AutoCAD Structural Detailing 2017
+213I1	Autodesk AutoCAD Utility Design 2017
+974I1	Autodesk Bridge Module 2017
+765I1	Autodesk Building Design Suite Premium 2017
+784I1	Autodesk Building Design Suite Standard 2017
+766I1	Autodesk Building Design Suite Ultimate 2017
+889I1	Autodesk Display Cluster Module for Autodesk VRED Design 2017
+651I1	Autodesk Education Master Suite 2017
+535I1	Autodesk Enterprise Token Flex
+656I1	Autodesk Entertainment Creation Suite For Education 2017
+793I1	Autodesk Entertainment Creation Suite Ultimate 2017
+839I1	Autodesk Fabrication CADmep 2017
+842I1	Autodesk Fabrication CAMduct 2017
+844I1	Autodesk Fabrication CAMduct Components 2017
+841I1	Autodesk Fabrication ESTmep 2017
+845I1	Autodesk Fabrication RemoteEntry 2017
+843I1	Autodesk Fabrication Tracker 2017
+757I1	Autodesk Factory Design Suite Premium 2017
+789I1	Autodesk Factory Design Suite Standard 2017
+760I1	Autodesk Factory Design Suite Ultimate 2017
+973I1	Autodesk Geotechnical Module 2017
+872I1	Autodesk HSMWorks Premium 2017
+873I1	Autodesk HSMWorks Professional 2017
+786I1	Autodesk Infrastructure Design Suite Premium 2017
+787I1	Autodesk Infrastructure Design Suite Standard 2017
+785I1	Autodesk Infrastructure Design Suite Ultimate 2017
+796I1	Autodesk Infrastructure Map Server 2017 
+877I1	Autodesk Infrastructure Map Server 5 Activations 2017
+808I1	Autodesk InfraWorks 2017
+976I1	Autodesk InfraWorks 360 - companion 2017
+927I1	Autodesk InfraWorks 360 2017
+208I1	Autodesk Inventor 2017
+805I1	Autodesk Inventor Engineer-to-Order Series 2017
+752I1	Autodesk Inventor Engineer-to-Order Server 2017
+969I1	Autodesk Inventor HSM 2017
+529I1	Autodesk Inventor LT 2017
+798I1	Autodesk Inventor OEM 2017
+797I1	Autodesk Inventor Professional 2017
+666I1	Autodesk Inventor Publisher 2017
+657I1	Autodesk Maya 2017
+660I1	Autodesk Maya Entertainment Creation Suite Standard 2017
+923I1	Autodesk Maya LT 2017
+977I1	Autodesk Maya with SoftImage 2017
+727I1	Autodesk MotionBuilder 2017
+498I1	Autodesk Mudbox 2017
+507I1	Autodesk Navisworks Manage 2017
+506I1	Autodesk Navisworks Simulate 2017
+763I1	Autodesk Plant Design Suite Premium 2017
+788I1	Autodesk Plant Design Suite Standard 2017
+764I1	Autodesk Plant Design Suite Ultimate 2017
+925I1	Autodesk Point Layout 2017
+654I1	Autodesk Product Design Suite for Education 2017
+782I1	Autodesk Product Design Suite Premium 2017
+783I1	Autodesk Product Design Suite Standard 2017
+781I1	Autodesk Product Design Suite Ultimate 2017
+919I1	Autodesk ReCap 2017
+829I1	Autodesk Revit 2017
+240I1	Autodesk Revit Architecture 2017
+828I1	Autodesk Revit LT 2017
+589I1	Autodesk Revit MEP 2017
+255I1	Autodesk Revit Structure 2017
+972I1	Autodesk River and Flood Analysis Module 2017
+547I1	Autodesk Robot Structural Analysis Professional 2017
+262I1	Autodesk Showcase 2017
+809I1	Autodesk Simulation CFD 2017
+810I1	Autodesk Simulation CFD 2017 Advanced
+815I1	Autodesk Simulation CFD 2017 Connection for NX
+824I1	Autodesk Simulation CFD 2017 Connection for Parasolid
+822I1	Autodesk Simulation CFD 2017 Connection for Pro/E
+812I1	Autodesk Simulation CFD 2017 Design Study Environment
+811I1	Autodesk Simulation CFD 2017 Motion
+899I1	Autodesk Simulation Composite Analysis 2017
+918I1	Autodesk Simulation Composite Design 2017
+837I1	Autodesk Simulation DFM 2017
+669I1	Autodesk Simulation Mechanical 2017
+571I1	Autodesk Simulation Moldflow Adviser Premium 2017
+570I1	Autodesk Simulation Moldflow Adviser Standard 2017
+572I1	Autodesk Simulation Moldflow Adviser Ultimate 2017
+574I1	Autodesk Simulation Moldflow Insight Premium 2017
+574I1	Autodesk Simulation Moldflow Insight Premium 2017
+573I1	Autodesk Simulation Moldflow Insight Standard 2017
+575I1	Autodesk Simulation Moldflow Insight Ultimate 2017
+579I1	Autodesk Simulation Moldflow Synergy 2017
+741I1	Autodesk SketchBook Designer 2017
+871I1	Autodesk SketchBook Pro 2017
+776I1	Autodesk Smoke 2017 for Mac OS X
+590I1	Autodesk Softimage 2017
+662I1	Autodesk Softimage Entertainment Creation Suite Standard 2017
+549I1	Autodesk Vault Collaboration 2017
+801I1	Autodesk Vault Collaboration AEC 2017
+555I1	Autodesk Vault Office 2017
+569I1	Autodesk Vault Professional 2017
+559I1	Autodesk Vault Workgroup 2017
+955I1	Autodesk Vehicle Tracking 2017
+884I1	Autodesk VRED 2017
+885I1	Autodesk VRED Design 2017
+888I1	Autodesk VRED Presenter 2017
+886I1	Autodesk VRED Professional 2017
+887I1	Autodesk VRED Server 2017
+128I1	Autodesk 3ds Max 2017
+495I1	Autodesk 3ds Max Design 2017
+774I1	Autodesk 3ds Max Entertainment Creation Suite Premium 2017
+661I1	Autodesk 3ds Max Entertainment Creation Suite Standard 2017
+978I1	Autodesk 3ds Max with SoftImage 2017
+960I1	Autodesk Advance Concrete 2017
+959I1	Autodesk Advance Steel 2017
+959H2	Autodesk Advance Steel 2017.1
+958I1	Autodesk Advance Steel 2017 with AutoCAD
+710I1	Autodesk Alias Automotive 2017
+966I1	Autodesk Alias AutoStudio 2017
+712I1	Autodesk Alias Design 2017
+736I1	Autodesk Alias Surface 2017
+577I1	CADdoctor for Autodesk Simulation 2017
+535I1	Enterprise Multi-Flex Enhanced Bundle 2017
+718I1	mental ray Standalone 2017
+535I1	T1 Enterprise Multi-flex 2017
+535I1	T1 Enterprise Multi-flex Prior Version 2017
+535I1	T1 Enterprise Multi-flex Standard Bundle 2017
+535I1	T1 Enterprise Multi-Flex Standard Prior Version Bundle 2017
+
+
+
+ 
