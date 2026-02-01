@@ -1,0 +1,57 @@
+:::::::::::::::::::: www.aportesingecivil.com ::::::::::::::::::::
+
+1. Instale alguna aplicación de Autodesk 2020-2026
+
+2. Copie la carpeta "Common Files" del patch, en: C:\Program Files (x86)
+
+3. Instale el administrador de redes de licencia (nlm11-19-4-1-ipv4-ipv6-win64.msi)
+
+4. Copie "adskflex.exe" y "Lic.dat" del patch, en: C:\Autodesk\Network License Manager
+
+5. Edite el archivo Lic.dat
+   - Abra el archivo con el block de notas (notepad)
+
+   - Cambie el HOSTNAME y el MAC por el de su equipo
+     Para ver su información >> inicie "LMTOOLS Utility" >> System Settings
+      Computer/Hostname = HOSTANME
+      Ethernet = MAC     
+
+5. Cree un servicio de licencias:
+   - Inicie LMTOOLS Utility (lmtools.exe)
+
+   - En la pestaña "Config Services"
+     **| Agregue un nombre del servicio
+     **| Seleccione "C:\Autodesk\Network License Manager\lmgrd.exe" para la ruta "Path to the lmgrd.exe file"
+     **| Seleccione "C:\Autodesk\Network License Manager\Lic.dat" para la ruta "Path to the license file"
+     **| Active las casillas "Use Services" y "Start Server at Power Up"
+     **| Clic en "Save"
+
+   - En la pestaña "Service/License file"
+     **| Seleccione "Configuration using Services" y active "LMTOOLS ignores license file patch environment variables"
+
+   - En la pestaña "Start/Stop/Reread"
+      **| Click en "Start Server"
+      **| Click en "ReRead License file"
+
+6. Inicie su aplicación de Autodesk  
+   - Cuando le solicite su tipo de licencia, seleccione "Use a network license"
+   - Seleccione "Single license server" 
+   - Ingrese: 127.0.0.1, localhost o puerto@servidor
+
+   
+==================== Listo ====================
+
+
+PD 01: 27080 es el puerto, si el puerto ya está en uso puede cambiarlo.
+
+PD 02: Solución al mensaje: Your Autodesk Licence is not valid <<>> Su licencia de AutoCAD no es válida
+      Agregue a su archivo hosts de windows:
+      127.0.0.1   genuine-software.autodesk.com
+      127.0.0.1   genuine-software1.autodesk.com
+      127.0.0.1   genuine-software2.autodesk.com
+      127.0.0.1   ase.autodesk.com
+      127.0.0.1   ase-cdn-stg.autodesk.com
+      127.0.0.1   api.genuine.autodesk.com
+      127.0.0.1   api.genuine-software.autodesk.com
+
+

@@ -1,0 +1,45 @@
+:::::::::::::::::::: www.Civilmdc.com ::::::::::::::::::::
+
+1. Install any Autodesk 2020,2021,2022,2023,2023 and 2025 Application
+
+2. Copy "Common Files" from patch, to: C:\Program Files (x86)
+
+3. Install Network License Manager (nlm11-19-4-1-ipv4-ipv6-win64.msi)
+
+4. Copy "adskflex.exe" and "Lic.dat" from patch, to: C:\Autodesk\Network License Manager
+
+5. Edit the Lic.dat file
+   - Start the file with notepad 
+
+   - Change HOSTNAME and MAC to suit your configuration (if you are not sure start LMTOOLS Utility and go to 
+     System Settings, your HOSTNAME and MAC will be listed)
+
+6. Setup & start license server
+   - Start LMTOOLS Utility (lmtools.exe)
+
+   - In tab "Config Services"
+     **| Add a service name
+     **| Choose "C:\Autodesk\Network License Manager\lmgrd.exe" for path to lmgrd
+     **| Choose "C:\Autodesk\Network License Manager\Lic.dat" for path to license file
+     **| Tick 'use services' and 'start server at power up'
+     **| Click on "Save"
+
+   - In tab "Service/License file"
+     **| Choose "Configuration using Services" and tick "LMTOOLS ignores license file patch environment variables"
+
+   - In tab "Start/Stop/Reread"
+      **| Click on "Start Server"
+      **| Click on "ReRead License file"
+
+7. Start your Autodesk Application
+   - License type: Use a network license
+   - License server model: Single License Server
+   - Use 127.0.0.1, localhost or where the flexlm daemon is installed (syntax could be port@server).
+
+==================== Enjoy ====================
+
+PD 02: Solution for: Your Autodesk Licence is not valid
+       Block hosts:
+       127.0.0.1 genuine-software.autodesk.com
+       127.0.0.1 genuine-software1.autodesk.com
+       127.0.0.1 genuine-software2.autodesk.com
